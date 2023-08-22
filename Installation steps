@@ -1,0 +1,10 @@
+1- download latest version of nodejs
+2- download react developer tool extension
+3-you can check the versions of react and npm on cmd by the command:
+  node --version
+  npm --version
+4- download the VSCode and add extensions:
+    Thunder client
+    Live Server
+
+    
